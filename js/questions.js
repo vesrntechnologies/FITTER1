@@ -2,48 +2,49 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the safety sign?",
-    immg:"img1",
-    answer: "Information Sign",
+    question: "Which class of fire is caused by fire wood, paper or cloth?",
+  //  immg:"img1",
+    answer: "Class A fire",
     options: [
-      "Warn Sign",
-      "Mandatory Sign",
-      "Information Sign",
-      "Danger Sign"
+      "Class A fire",
+      "Class B fire",
+      "Class C Fire",
+      "Class D Fie"
     ]
   },
     {
     numb: 2,
-    question: "What is smothering in extinguishing of fire?",
-    answer: "Isolating the fire from the supply of oxygen",
+    question: "What is the bin color code for waste paper segretation?",
+    answer: "Blue",
     options: [
-      "Adding the fuel element to the fire",
-      "Removing the fuel element from the fire",
-      "Using of water to lower the temperature", 
-      "Isolating the fire from the supply of oxygen"
+      "Red",
+      "Blue",
+      "Black", 
+      "Green"
     ]
   },
     {
     numb: 3,
-    question: "What is the physical hazard?",
+    question: "What does A denote in the ABC of the first aid",
     
-    answer: "Vibration",
+    answer: "Airway",
     options: [
-      "Smoking",
-      "Vibration",
-      "Corrosive",
-      "Radio Active"
+      "Airway",
+      "Attention",
+      "Arresting",
+      "Atomsphere"
     ]
   },
     {
     numb: 4,
-    question: "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
-    answer: "Pull, Aim, Squeeze,Sweep",
+    question: "What is the name of the part marked as X shown in the figure?",
+    immg:"img4",
+    answer: "Tang",
     options: [
-      "Pull, Aim, Squeeze,Sweep",
-      "Pull, Aim, Sweep,Squeeze",
-      "Push, Arrange,Squeeze, Sweep ",
-      "Push, Arrange,Sweep, Sequence"
+      "Heel",
+      "Tang",
+      "Ferrule",
+      "File length"
     ]
   },
     {
