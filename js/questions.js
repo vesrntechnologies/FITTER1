@@ -12,610 +12,412 @@ let questions = [
       "Danger Sign"
     ]
   },
-    {
+   {
     numb: 2,
-    question: "What is smothering in extinguishing of fire?",
-    answer: "Isolating the fire from the supply of oxygen",
+    question: "What is the bin color code for waste paper segretation?",
+    answer: "Blue",
     options: [
-      "Adding the fuel element to the fire",
-      "Removing the fuel element from the fire",
-      "Using of water to lower the temperature", 
-      "Isolating the fire from the supply of oxygen"
+      "Red",
+      "Blue",
+      "Black", 
+      "Green"
     ]
   },
     {
     numb: 3,
-    question: "Which step of the 5s-concept refers Standardization?",
+    question: "What does A denote in the ABC of the first aid",
     
-    answer: "Step-4",
+    answer: "Airway",
     options: [
-      "Step-1",
-      "Step-2",
-      "Step-3",
-      "Step-4"
+      "Airway",
+      "Attention",
+      "Arresting",
+      "Atomsphere"
     ]
   },
     {
     numb: 4,
-    question: "Which pliers is used for making the wire hooks and loops?",
-    answer: "Round nose pliers",
+    question: "What is the name of the part marked as X shown in the figure?",
+    immg:"img4",
+    answer: "Tang",
     options: [
-      "Flat nose pliers",
-      "Long nose pliers",
-      "Round nose pliers",
-      "Diagonal cutting pliers"
+      "Heel",
+      "Tang",
+      "Ferrule",
+      "File length"
     ]
   },
     {
     numb: 5,
-    question: "What is the use of the pincer?",
-    answer: "Extracting the pin nails from the wood",
+    question: "Which chisel is used for squaring materials at the corners and joints?",
+    answer: "Diamond point chisel",
     options: [
-      "Twisting the flexible wires",
-      "Cutting larger diameter of wires",
-      "Extracting the pin nails from the wood",
-      "Holding small objects, where finger cannot reach"
+      "Flat chisel",
+      "Diamond point chisel",
+      "Cross cut chisel",
+      "Half round nose chisels"
     ]
   },
   {
     numb: 6,
-    question: "Which plier is used for making wire hooks and loops?",
-    answer: "Yellow",
+    question: "What is the name of the part of a hammer marked as X shown in the figure?",
+    immg:"img6",
+    answer: "Cheek",
     options: [
-      "Blue",
-      "White",
-      "Yellow",
-      "Green"
+      "Face",
+      "Pein",
+      "Cheek",
+      "Eye hole"
     ]
   },
   {
     numb: 7,
-    question: "What is the use of pincer? ",
-    answer: "Incineration",
+    question: "Which file has parallel edges throughout the length?",
+    answer: "Hand file",
     options: [
-      "Landfill",
-      "Composting",
-      "Incineration",
-      "Water compaction"
+      "Hand file",
+      "Bastard file",
+      "Rasp cut file",
+      "Single cut file"
     ]
   },
   {
     numb: 8,
-    question: "Which disposal method of waste save lot of energy?",
-   
-    answer: "Recycling",
+    question: "Which caliper is used for finding the centre of the round bar?",
+    //immg:"img8",
+    answer: "Jenny caliper",
     options: [
-      "Land fill",
-      "Recycling",
-      "Incineration",
-      "Composting"
+      "Jenny caliper",
+      "Inside caliper",
+      "Outside caliper",
+      "Firm joint caliper"
     ]
   },
       {
     numb: 9,
-    question: "What is the name of the tool as shown in the figure?",
-    
-    answer: "Diagonal cutting pliers",
-    immg:"img9",
+    question: "What is the name of the angualr measuring instrument shown in the figure?",
+    immg:"img9",    
+    answer: "Universal bevel guage",
     options: [
-      "Nose pliers",
-      "Crimping tool",
-      "Combination plier",
-      "Diagonal cutting pliers"
+      "Bevel gauge",
+      "Bevel protractor",
+      "Universal bevel guage",
+      "Universal surface gauge"
     ]
   },
     {
     numb: 10,
-    question: "What is the name of the file as shown in the figure?",
-    immg:"img10",
-    answer: "Rasp cut file",
+    question: "Which chisel is used for cutting oil grooves?",
+    
+    answer: "Half round nose chisel",
     options: [
-      "Curved cut file",
-      "Single cut file ",
-      "Double cut file",
-      "Rasp cut file"
+      "Flat chisel",
+      "Web chisel",
+      "Half round nose chisel",
+      "Diamond point chisel"
     ]
   },
      {
     numb: 11,
-    question: "What is the name of the drill bit as shown in the figure?",
+    question: "What is the name of the vice shown in the figure?",
     immg:"img11",
-    answer: "Taper shank bit",
+    answer: "Pin vice",
     options: [
-      "Flat drill bit",
-      "Taper shank bit",
-      "countersink bit",
-      "straight shank bit"
+      "Pin vice",
+      "Pipe vice",
+      "Hand vice",
+      "Machine vice"
     ]
   },
      {
     numb: 12,
-    question: "Which file is used for sharpening the blunt teeth of a tenon saw?",
+    question: "What is the accuracy of protractor head in combination set?",
     
-    answer: "Triangular file",
+    answer: "1 Degree",
     options: [
-      "square file",
-      "round file",
-      "Triangular file",
-      "half round file"
+      "1 Degree",
+      "5 Degree",
+      "5 Inches ",
+      "5 Feet"
     ]
   },
  {
     numb: 13,
-    question: "What is the name of the part marked ‘X’ as shown in the figure?",
-    immg:"img13",
-    answer: "Heel",
+    question: "Which punch is used for witness marks?",
+    
+    answer: "Dot punch",
     options: [
-      "Edge",
-      "Tang",
-      "Heel",
-      "point"
+      "Dot punch",
+      "Pin punch",
+      "Bell punch",
+      "Centre punch"
     ]
   },
 {
     numb: 14,
-    question: "What is the name of the hammer as shown in the figure?",
-    
-    answer: "claw hammer",
-     immg:"img14",
+    question: "What is the name of the part marked as X shown in the figure",
+    immg:"img14",
+    answer: "Snug",
     options: [
-      "claw hammer",
-      "Ball pein hammer",
-      "Cross pein hammer",
-      "Straight pein hammer"
+      "Nut",
+      "Sung",
+      "Spindle",
+      "Scriber"
     ]
   },
     {
     numb: 15,
-    question: "What is the name of the tool as shown in the figure?",
-     immg:"img15",
-    answer: "Ball pein hammer",
+    question: "Which hand tool is used to finish the resharpened divider point?",
+    
+    answer: "Oil stone",
     options: [
-      "Claw hammer",
-      "Tack hammer",
-      "cross pein hammer",
-     "Ball pein hammer"
+      "file",
+      "Grinder",
+      "scraper",
+     "Oil stone"
     ]
   },
     {
     numb: 16,
-    question: "Which is the physical hazard?",
-    
-    answer: "Vibration",
+    question: "Which vice is used to hold hoolow cylindrical jobs?",
+     //immg:"img16",
+    answer: "Pip Vice",
     options: [
-      "smoking",
-      "Vibration",
-      "corrosive",
-      "bacteria"
+      "Pin Vice",
+      "Pipe Vice",
+      "Hand Vice",
+      "Bench Vice"
     ]
   },
     {
     numb: 17,
-    question: "Which type of fire extinguisher is used for fire on electrical equipment?",
+    question: "What is the name of the angle between the axis of chisel and the job surface while chipping?",
     
-    answer: "Halon type",
+    answer: "Angle of inclination",
     options: [
-      "Halon type",
-      "Foam type",
-      "Gas cartridge water type",
-      "Stored pressure water type"
+      "Rake Angle",
+      "Point Angle",
+      "Incineration",
+      "Angle of inclination"
     ]
   },
      {
     numb: 18,
-    question: "What is the name of the tool as shown in the figure?",
-      immg:"img18",
-    answer:"pincer",
+    question: "Which part of the bevel protractor comes in contact with the inclined surface while measuring?",
+    
+    answer:"Blade",
     options: [
-      "wire stripper",
-      "slide cutter",
-      "pincer",
-      "gimlet"
+      "Dial",
+      "Disc",
+      "Blade",
+      "Stock"
     ]
   },
        {
     numb: 19,
-    question: "Which is the correct sequence of operation to be performed while using the fire extinguisher?",
+    question: "Which is an immediate life saving procedure?",
     
-    answer:"Pull, Aim, Squeeze, Sweep",
+    answer:"First Aid",
     options: [
-      "Pull, Aim, Squeeze, Sweep",
-      "Pull, Aim, Sweep, Squeeze",
-      "Push, Arrange, Squeeze, Sweep",
-      "Push, Arrange, Sweep, Sequence"
+      "First Aid",
+      "Call a doctor",
+      "Call an ambulance",
+      "Medical treatment"
     ]
   },
         {
     numb: 20,
-    question: "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
-   
-    answer:"Respirator",
+    question: "What is the first step o avoid accident a work place?",
+    //immg:"img20",
+    answer:"Observing safety precautions",
     options: [
-      "Apron",
-      "Goggles",
-      "Ear muff",
-      "Respirator"
+      "Wearing safetyh equipment",
+      "Doing things in ones own way",
+      "Observing safety precautions",
+      "Doing things with a higly skilled working practice"
     ]
   },  
-    
              {
     numb: 21,
-    question: "What is starving in extinguishing of fire?",
+    question: " How will you diagnose the victim is suffering under cardiac arrest?",
     
-    answer:"Removing fuel element from the fire",
+    answer:"Appears blue colour around his lips",
     options: [
-      "Adding fue to the fire",
-      "Using water to cool the fire ",
-      "Removing fuel element from the fire",
-      "Preventing oxygen supply to the fire"
+      "Gets pain in spinal guard",
+      "Mouth will be closed tightly ",
+      "Heavy swelling on his stomach",
+      "Appears blue colour around his lips"
     ]
   },
                  
         {
     numb: 22,
-    question: "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
-    
-    answer:"Mouth to mouth method",
+    question: " What is the name of the tool? ",
+    //immg:"img22",
+    answer:"Diagonal cutting pliers",
     options: [
-      "Schafers method",
-      "Mouth to mouth method",
-      "Holger Nelson back pressure method",
-      "Nelson arm lift back pressure method"
+      "Wire stripper",
+      "Crimping tool",
+      "Combination pliers",
+      "Diagonal cutting pliers"
     ]
   },  
      {
     numb: 23,
-    question: "Which type of occupational health hazard is cause for infection due to bacteria?",
-    
-    answer:"Biological hazard",
+    question: "What is the name of the safety sign?  ",
+    immg:"img23",
+    answer:"Information sign",
     options: [
-      "Electrical Hazard",
-      "Physiological hazard",
-      "Biological hazard",
-      "Pschological hazard"
+      "Warning sign",
+      "Mandatory sign",
+      "Prohibition sign",
+      "Information sign"
     ]
   }, 
      {
     numb: 24,
-    question: "Which is the golden hour for the victim injured on head with risk of dying?",
+    question: "What will be first-aid to be given to stop the bleeding of the victim?",
+    immg:"img24",
+    answer: "Applying pressure over the injured portion",
+    options: [
+      "Applying ointment",
+      "Keep the injured portion upward",
+      "Covering the wound portion by dressing",
+     "Applying pressure over the injured portion"
+    ]
+  },
+  {
+    numb: 25,
+    question: " What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+    
+    answer: "Break the contact by switching OFF the power supply",
+    options: [
+      "Pull or push him from the contact by hand",
+      "Inform your authority about this electric shock",
+      "Call someone for helping to remove him from contact",
+     "Break the contact by switching OFF the power supply"
+    ]
+  },        
+               {
+    numb: 26,
+    question: "What is the name of the cautionary sign?  ",
+    immg:"img26",
+    answer:"Pedestrian crossing",
+    options: [
+      "School",
+      "Guarded",
+      "Unguarded ",
+      "Pedestrian crossing"
+    ]
+  }, 
+     {
+    numb: 27,
+    question: " Which is the golden hour for the victim injured on head with risk of dying?",
     
     answer: "First 30 minutes",
     options: [
       "First 15 minutes",
       "First 30 minutes",
       "First 45 minutes",
-     "First 60 minutes"
-    ]
-  },
-  {
-    numb: 25,
-    question: "Which condition of the victim is referred as COMA stage?",
-    
-    answer: "Lie totally senseless and do not respond to calls",
-    options: [
-      "Un consscious but can respond to calls",
-      "Consicous but cannot resopnd to call",
-      "Breathing and respond to call",
-     "Lie totally senseless and do not respond to calls"
-    ]
-  },        
-               {
-    numb: 26,
-    question: "Which criteria must be satisfied for the quality of PPE s?",
-    
-    answer:"It should with stand the hazards",
-    options: [
-      "It should with stand the hazards",
-      "It cannot be used for long period",
-      "made by non standard material",
-      "low cost"
-    ]
-  }, 
-     {
-    numb: 27,
-    question: "What is the possible range to measure the size of the wire in a Standard Wire Gauge(SWG)?",
-    
-    answer: "0-36",
-    options: [
-      "0-44",
-      "0-42",
-      "0-38",
-     "0-36"
+     "First 60 minutes "
     ]
   },
           {
     numb: 28,
-    question: "What is the name of the wire joint as shown in the figure?",
+    question: "Which condition of the victim is referred as COMA stage? ",
     immg:"img28",
-    answer: "Knotted tap joint",
+    answer: "Lie totally senseless and do not respond to calls",
     options: [
-      "Aerial tap joint",
-      "Knotted tap joint",
-      "Duplex cross tap joint",
-     "Double cross tap joint"
+      "Unconscious but can respond to calls",
+      "Conscious but cannot respond to calls ",
+      "Breathing but cannot respond to calls",
+     "Lie totally senseless and do not respond to calls"
     ]
   },
 
       {
     numb: 29,
-    question: "What is the full form of XLPE Cable?",
+    question: "What is the cause for twisting defect in timber? ",
     
-    answer: "Cross Linked Poly Ethylene",
+    answer: "Uneven shrinkage",
     options: [
-      "Cross Line Poly Ethylene",
-      "X ess Line Phase Earthing",
-      "Cross Linked Poly Ethylene",
-     "Excess Length Paper and Ebonite"
+      "Defective Storage",
+      "Uneven shrinkage",
+      "Improper seasoning",
+     "Irregularity in growth of branches"
     ]
   },
       {
     numb: 30,
-    question: "How many electrons are there in the valence shell of a copper atom?",
-    
-    answer: "1",
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img30",
+    answer: "Diamond point chisel",
     options: [
-      "1",
-      "2",
-      "8",
-     "18"
-    ]
-  },
-      {
-    numb: 31,
-    question: "Which effect of the electric current takes place in the neon lamp?",
-    
-    answer: "Gas ionization effect",
-    options: [
-      "Heating effect",
-      "Magnetic effect",
-      "Chemical effect",
-     "Gas ionization effect"
-    ]
-  },
-      {
-    numb: 32,
-    question: "What is the unit of insulation resistance?",
-    
-    answer: "Mega ohm",
-    options: [
-      "Ohm",
-      "Kilo ohm",
-      "Milli Ohm",
-     "Mega ohm"
-    ]
-  },
-     {
-    numb: 33,
-    question: "Which type of soldering flux is used for soldering aluminium conductors?",
-    
-    answer: "Kynal flux",
-    options: [
-      "Tallow",
-      "Kynal flux",
-      "Zinc Chloride",
-     "Sal ammonia"
-    ]
-  },
-      {
-    numb: 34,
-    question: "What is the name of the part marked X in UG cables as shown in the figure?",
-    
-    answer: "Lead sheath",
-    immg:"img34",
-    options: [
-      "Serving",
-      "Bedding",
-      "Armouring",
-     "Lead sheath"
-    ]
-  },
-     {
-    numb: 35,
-    question: "What is the name of the joint as shown in the figure?",
-    
-    answer: "Married joint",
-    immg:"img35",
-    options: [
-      "Married joint",
-      "Scarfed Joint",
-      "Western Union Joint",
-     "Britannia Sraight Joint"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
   },
      {
     numb: 36,
-    question: "What is the use of Britannia T joint?",
-    
-    answer: "Tapping the service connection from overhead lines",
-    
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img36",
+    answer: "Diamond point chisel",
     options: [
-      "Extending the length of the lines",
-      "Inside and outside wiring installation",
-      "Mechanical stress not required on conductor",
-     "Tapping the service connection from overhead lines"
-    ]
-  },
-     {
-    numb: 37,
-    question: "What is the name of the part marked X of the belted U.G cable as shown in the figure?",
-    
-    answer: "Lead sheath",
-    immg:"img37",
-    options: [
-      "Jute filling",
-      "Armouring",
-      "Lead sheath",
-     "Paper insulation"
-    ]
-  },
-     {
-    numb: 38,
-    question: "What is the purpose of the bedding insulation in the U.G. cable?",
-    
-    answer: "Protect the metallic sheath against corrosion",
- 
-    options: [
-      "Protect the cable fromn mechanical injury",
-      "Protect the cable from moisture and gases",
-      "Protect armouring from atomspheric condition",
-     "Protect the metallic sheath against corrosion"
-    ]
-  },
-      {
-    numb: 39,
-    question: "What are the two classifications of system of units?",
-    
-    answer: "Fundamental and derived",
- 
-    options: [
-      "British and Metric",
-      "Gravitational and non gravitational",
-      "Fundamental and derived",
-     "Metric and International"
-    ]
-  },
-      {
-    numb: 40,
-    question: "What are fundamental units?",
-    
-    answer: "Length, Mass, Time",
- 
-    options: [
-      "Length, Mass, Volume",
-      "Length, Mass, Time",
-      "Length, Mass, Area",
-     "Length, Pressure, Volume"
-    ]
-  },
-       {
-    numb: 41,
-    question: "What denotes letter ' in MKS system?",
-    
-    answer: "Meter",
- 
-    options: [
-      "Mile",
-      "Milli Meter",
-      "Meter",
-     "Micron"
-    ]
-  },
-
-       {
-    numb: 42,
-    question: "How many millimetres are there in 1 inch?",
-    
-    answer: "25.4mm",
- 
-    options: [
-      "2.54mm",
-      "25.4mm",
-      "24.5mm",
-     "2.45mm"
-    ]
-  },
-      {
-    numb: 43,
-    question: "Convert decimal 0.000659 to fraction?",
-    
-    answer: "659/1000000",
- 
-    options: [
-      "659/10000",
-      "659/100000",
-      "659/1000000",
-     "659/1000"
-    ]
-  },
-    {
-    numb: 44,
-    question: "What is the square root of 529?",
-    
-    answer: "23",
- 
-    options: [
-      "13",
-      "23",
-      "33",
-     "43"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
   },
      {
     numb: 45,
-    question: "Identify the conventional symbol of material?",
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
     immg:"img45",
-    answer: "Water",
- 
+    answer: "Diamond point chisel",
     options: [
-      "Water",
-      "Concrete",
-      "Asbestos",
-     "Glass"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
   },
      {
     numb: 46,
-    question: "Identify the conventional symbol of material?",
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
     immg:"img46",
-    answer: "Wood",
- 
+    answer: "Diamond point chisel",
     options: [
-      "Lead",
-      "Glass",
-      "Wood",
-     "Paper"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
   },
      {
     numb: 47,
-    question: "Identify the name of instrument?",
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
     immg:"img47",
-    answer: "Protractor",
- 
+    answer: "Diamond point chisel",
     options: [
-      "Set Square",
-      "Protractor",
-      "French curve",
-     "T Square"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
-  },
-      {
+  }
+    ,
+     {
     numb: 48,
-    question: "Identify the name of set square?",
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
     immg:"img48",
-    answer: "45o set square",
- 
+    answer: "Diamond point chisel",
     options: [
-      "15o Set Square",
-      "60o set square",
-      "30o set square",
-     "45o set square"
-    ]
-  },
-      {
-    numb: 49,
-    question: "Compass used to draw for___.",
-    
-    answer: "circle",
- 
-    options: [
-      "rectangle",
-      "square",
-      "circle",
-     "triangle"
-    ]
-  },
-      {
-    numb: 50,
-    question: "a+b = 15, a-b=10 Then 4ab=? ",
-    
-    answer: "125",
- 
-    options: [
-      "125",
-      "100",
-      "120",
-     "135"
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
