@@ -49,131 +49,131 @@ let questions = [
   },
     {
     numb: 5,
-    question: "Which step of the 5s-concept refers 'Standardization' ?",
-    answer: "Step-4",
+    question: "Which chisel is used for squaring materials at the corners and joints?",
+    answer: "Diamond point chisel",
     options: [
-      "Step-1",
-      "Step-2",
-      "Step-3",
-      "Step-4"
+      "Flat chisel",
+      "Diamond point chisel",
+      "Cross cut chisel",
+      "Half round nose chisels"
     ]
   },
   {
     numb: 6,
-    question: "Which plier is used for making wire hooks and loops?",
-    answer: "Round nose plier",
+    question: "What is the name of the part of a hammer marked as X shown in the figure?",
+    answer: "Cheek",
     options: [
-      "Flat nose plier",
-      "Long nose plier",
-      "Round nose plier",
-      "Diagonal cutting plier"
+      "Face",
+      "Pein",
+      "Cheek",
+      "Eye hole"
     ]
   },
   {
     numb: 7,
-    question: "What is the use of pincer? ",
-    answer: "Extracting the pin nails from the wood",
+    question: "Which file has parallel edges throughout the length?",
+    answer: "Hand file",
     options: [
-      "Twisting the flexible wires ",
-      "Cutting small diameter of wires",
-      "Extracting the pin nails from the wood",
-      "Holding small objects, where fing"
+      "Hand file",
+      "Bastard file",
+      "Rasp cut file",
+      "Single cut file"
     ]
   },
   {
     numb: 8,
-    question: "  What is the name of road safety sign? ",
-    immg:"img8",
-    answer: "Mandatory sign",
+    question: "Which caliper is used for finding the centre of the round bar?",
+    //immg:"img8",
+    answer: "Jenny caliper",
     options: [
-      "Mandatory sign",
-      "Cautionary sign",
-      "Informatory sign ",
-      "Prohibition sign"
+      "Jenny caliper",
+      "Inside caliper",
+      "Outside caliper",
+      "Firm joint caliper"
     ]
   },
       {
     numb: 9,
-    question: "What is the back ground colour of warning signs in the basic category? ",
+    question: "What is the name of the angualr measuring instrument shown in the figure?",
     
-    answer: "Yellow",
+    answer: "Universal bevel guage",
     options: [
-      "Blue",
-      "White",
-      "Yellow",
-      "Green"
+      "Bevel gauge",
+      "Bevel protractor",
+      "Universal bevel guage",
+      "Universal surface gauge"
     ]
   },
     {
     numb: 10,
-    question: " Which type of fire extinguisher is used for fire on electrical equipment?",
+    question: "Which chisel is used for cutting oil grooves?",
     
-    answer: "Halon type",
+    answer: "Half round nose chisel",
     options: [
-      "Halon type",
-      "Foam type ",
-      "Gas cartridge type",
-      "Stored pressure type"
+      "Flat chisel",
+      "Web chisel",
+      "Half round nose chisel",
+      "Diamond point chisel"
     ]
   },
      {
     numb: 11,
-    question: " Which is the waste disposal method that produces heat?",
+    question: "What is the name of the vice shown in the figure?",
     
-    answer: "Incineration",
+    answer: "Pin vice",
     options: [
-      "Recycling",
-      "Composting",
-      "Incineration",
-      "Waste compaction "
+      "Pin vice",
+      "Pipe vice",
+      "Hand vice",
+      "Machine vice"
     ]
   },
      {
     numb: 12,
-    question: " Which Personal Protective Equipment PPE is used for the protection from fumes?",
+    question: "What is the accuracy of protractor head in combination set?",
     
-    answer: "Nose mask",
+    answer: "1 Degree",
     options: [
-      "Apron",
-      "Goggles",
-      "Ear mask ",
-      "Nose mask"
+      "1 Degree",
+      "5 Degree",
+      "5 Inches ",
+      "5 Feet"
     ]
   },
  {
     numb: 13,
-    question: " What is the full form of BIS?",
+    question: "Which punch is used for witness marks?",
     
-    answer: "Bureau of Indian Standard",
+    answer: "Dot punch",
     options: [
-      "Board of Indian Standard",
-      "Bureau of Indian Standard",
-      "Board of International Standard",
-      "Bureau of International Standard"
+      "Dot punch",
+      "Pin punch",
+      "Bell punch",
+      "Centre punch"
     ]
   },
 {
     numb: 14,
-    question: "Which method is used to lift and move heavy loads?",
+    question: "What is the name of the part marked as X shown in the figure",
     
-    answer: "Crane and slings",
+    answer: "Snug",
     options: [
-      "Winches",
-      "Crane and slings",
-      "Layers and Rollers",
-      "Machine moving platforms"
+      "Nut",
+      "Sung",
+      "Spindle",
+      "Scriber"
     ]
   },
     {
     numb: 15,
-    question: "What is starving in extinguishing of fire?",
+    question: "Which hand tool is used to finish the resharpened divider point?",
     
-    answer: "Removing fuel element from the fire",
+    answer: "Oil stone",
     options: [
-      "Adding fuel to the fire",
-      "Using water to cool the fire",
-      "Removing fuel element from the fire",
-     "Preventing oxygen supply to the fire"
+      "file",
+      "Grinder",
+      "scraper",
+     "Oil stone"
     ]
   },
     {
