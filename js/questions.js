@@ -179,62 +179,62 @@ let questions = [
   },
     {
     numb: 16,
-    question: "What is the name of PPE? ",
+    question: "Which vice is used to hold hoolow cylindrical jobs?",
      //immg:"img16",
-    answer: "Hand screen",
+    answer: "Pip Vice",
     options: [
-      "Nose mask",
-      "Head shield",
-      "Face shield",
-      "Hand screen"
+      "Pin Vice",
+      "Pipe Vice",
+      "Hand Vice",
+      "Bench Vice"
     ]
   },
     {
     numb: 17,
-    question: " Which disposal method of waste save lot of energy?",
+    question: "What is the name of the angle between the axis of chisel and the job surface while chipping?",
     
-    answer: "Recycling ",
+    answer: "Angle of inclination",
     options: [
-      "Land fill",
-      "Recycling ",
+      "Rake Angle",
+      "Point Angle",
       "Incineration",
-      "Composting"
+      "Angle of inclination"
     ]
   },
      {
     numb: 18,
-    question: " Which artificial respiration method is to be performed to the victim with injuries on the chest and belly? ",
+    question: "Which part of the bevel protractor comes in contact with the inclined surface while measuring?",
     
-    answer:"Nelson’s arm-lift back pressure method",
+    answer:"Blade",
     options: [
-      "Schafer’s method",
-      "Mouth to mouth method ",
-      "Mouth to nose method",
-      "Nelson’s arm-lift back pressure method"
+      "Dial",
+      "Disc",
+      "Blade",
+      "Stock"
     ]
   },
        {
     numb: 19,
-    question: "Which type of occupational health hazard is cause for infection? ",
+    question: "Which is an immediate life saving procedure?",
     
-    answer:"Biological hazard",
+    answer:"First Aid",
     options: [
-      "Electrical hazard",
-      "Biological hazard",
-      "Physiological hazard",
-      "Psychological hazard"
+      "First Aid",
+      "Call a doctor",
+      "Call an ambulance",
+      "Medical treatment"
     ]
   },
         {
     numb: 20,
-    question: " What is the use of this tool? ",
+    question: "What is the first step o avoid accident a work place?",
     //immg:"img20",
-    answer:"Extracting nails from the wood",
+    answer:"Observing safety precautions",
     options: [
-      "Holding the hot substances",
-      "Cutting and twisting the wires",
-      "Extracting nails from the wood",
-      "Loosening and tightening the bolts and nuts"
+      "Wearing safetyh equipment",
+      "Doing things in ones own way",
+      "Observing safety precautions",
+      "Doing things with a higly skilled working practice"
     ]
   },  
              {
