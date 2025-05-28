@@ -61,6 +61,7 @@ let questions = [
   {
     numb: 6,
     question: "What is the name of the part of a hammer marked as X shown in the figure?",
+    immg:"img6",
     answer: "Cheek",
     options: [
       "Face",
@@ -95,7 +96,7 @@ let questions = [
       {
     numb: 9,
     question: "What is the name of the angualr measuring instrument shown in the figure?",
-    
+    immg:"img9",    
     answer: "Universal bevel guage",
     options: [
       "Bevel gauge",
@@ -119,7 +120,7 @@ let questions = [
      {
     numb: 11,
     question: "What is the name of the vice shown in the figure?",
-    
+    immg:"img11",
     answer: "Pin vice",
     options: [
       "Pin vice",
@@ -155,7 +156,7 @@ let questions = [
 {
     numb: 14,
     question: "What is the name of the part marked as X shown in the figure",
-    
+    immg:"img14",
     answer: "Snug",
     options: [
       "Nut",
@@ -179,7 +180,7 @@ let questions = [
     {
     numb: 16,
     question: "What is the name of PPE? ",
-     immg:"img16",
+     //immg:"img16",
     answer: "Hand screen",
     options: [
       "Nose mask",
@@ -227,7 +228,7 @@ let questions = [
         {
     numb: 20,
     question: " What is the use of this tool? ",
-    immg:"img20",
+    //immg:"img20",
     answer:"Extracting nails from the wood",
     options: [
       "Holding the hot substances",
@@ -252,7 +253,7 @@ let questions = [
         {
     numb: 22,
     question: " What is the name of the tool? ",
-    immg:"img22",
+    //immg:"img22",
     answer:"Diagonal cutting pliers",
     options: [
       "Wire stripper",
@@ -276,7 +277,7 @@ let questions = [
      {
     numb: 24,
     question: "What will be first-aid to be given to stop the bleeding of the victim?",
-    
+    immg:"img24",
     answer: "Applying pressure over the injured portion",
     options: [
       "Applying ointment",
@@ -324,7 +325,7 @@ let questions = [
           {
     numb: 28,
     question: "Which condition of the victim is referred as COMA stage? ",
-    
+    immg:"img28",
     answer: "Lie totally senseless and do not respond to calls",
     options: [
       "Unconscious but can respond to calls",
@@ -349,7 +350,55 @@ let questions = [
       {
     numb: 30,
     question: "Which type of cold chisel is used for squaring materials at the corners?",
-    
+    immg:"img30",
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
+  },
+     {
+    numb: 36,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img36",
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img45",
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
+  },
+     {
+    numb: 46,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img46",
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
+  },
+     {
+    numb: 47,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img47",
     answer: "Diamond point chisel",
     options: [
       "Web chisel",
@@ -358,8 +407,19 @@ let questions = [
      "Diamond point chisel"
     ]
   }
-    
-    
+    ,
+     {
+    numb: 48,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    immg:"img48",
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
+  },
     
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
