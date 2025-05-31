@@ -266,36 +266,36 @@ let questions = [
     numb: 23,
     question: "What is the name of the vice shown in the figure?",
     immg:"img23",
-    answer:"Information sign",
+    answer:"Hand Vice",
     options: [
-      "Warning sign",
-      "Mandatory sign",
-      "Prohibition sign",
-      "Information sign"
+      "pin vice",
+      "pipe vice",
+      "Hand Vice",
+      "Quick relasing vice"
     ]
   }, 
      {
     numb: 24,
-    question: "What will be first-aid to be given to stop the bleeding of the victim?",
+    question: "Which angle is represented by the symbol γ on the cutting chisel shown in the figure?",
     immg:"img24",
-    answer: "Applying pressure over the injured portion",
+    answer: "Rake angle",
     options: [
-      "Applying ointment",
-      "Keep the injured portion upward",
-      "Covering the wound portion by dressing",
-     "Applying pressure over the injured portion"
+      "Rake angle",
+      "Wedge angle",
+      "Cutting angle",
+     "Clearance angle"
     ]
   },
   {
     numb: 25,
-    question: " What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+    question: "Which type of the file is used to make the job closer to the finishing size?",
     
-    answer: "Break the contact by switching OFF the power supply",
+    answer: "second cut file",
     options: [
-      "Pull or push him from the contact by hand",
-      "Inform your authority about this electric shock",
-      "Call someone for helping to remove him from contact",
-     "Break the contact by switching OFF the power supply"
+      "single cut file",
+      "curved cut file",
+      "second cut file",
+     "double cut file"
     ]
   },        
                {
