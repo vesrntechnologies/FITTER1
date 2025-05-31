@@ -2,14 +2,14 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the safety sign as shown in the figure?",
-    immg:"img1",
-    answer: "Information Sign",
+    question: "Which class of fire is caused by fire wood, paper or cloth?",
+    //immg:"img1",
+    answer: "Class A fire",
     options: [
-      "Warn Sign",
-      "Mandatory Sign",
-      "Information Sign",
-      "Danger Sign"
+      "Class A fire",
+      "Class B fire",
+      "Class C fire",
+      "Class D fire"
     ]
   },
    {
@@ -239,32 +239,32 @@ let questions = [
   },  
              {
     numb: 21,
-    question: " How will you diagnose the victim is suffering under cardiac arrest?",
+    question: "Which process breaks down the materials into organic compounds that are used as manure?",
     
-    answer:"Appears blue colour around his lips",
+    answer:"Composting",
     options: [
-      "Gets pain in spinal guard",
-      "Mouth will be closed tightly ",
-      "Heavy swelling on his stomach",
-      "Appears blue colour around his lips"
+      "Land fills",
+      "Recycling",
+      "Composting",
+      "Burning waste material"
     ]
   },
                  
         {
     numb: 22,
-    question: " What is the name of the tool? ",
+    question: "Which marking media is poisonous?",
     //immg:"img22",
-    answer:"Diagonal cutting pliers",
+    answer:"Copper Sulphate",
     options: [
-      "Wire stripper",
-      "Crimping tool",
-      "Combination pliers",
-      "Diagonal cutting pliers"
+      "White wash",
+      "Prsussian blue",
+      "Copper Sulphate",
+      "Cellulose lacquer"
     ]
   },  
      {
     numb: 23,
-    question: "What is the name of the safety sign?  ",
+    question: "What is the name of the vice shown in the figure?",
     immg:"img23",
     answer:"Information sign",
     options: [
