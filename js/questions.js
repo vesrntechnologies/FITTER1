@@ -300,124 +300,303 @@ let questions = [
   },        
                {
     numb: 26,
-    question: "What is the name of the cautionary sign?  ",
+    question: "What is the name of the file shown in the figure?",
     immg:"img26",
-    answer:"Pedestrian crossing",
+    answer:"Riffler file",
     options: [
-      "School",
-      "Guarded",
-      "Unguarded ",
-      "Pedestrian crossing"
+      "Barrot file",
+      "Riffler file",
+      "Crossing file",
+      "Mill saw file"
     ]
   }, 
      {
     numb: 27,
-    question: " Which is the golden hour for the victim injured on head with risk of dying?",
+    question: "Where will the weight of the hammer be stamped?",
     
-    answer: "First 30 minutes",
+    answer: "cheek",
     options: [
-      "First 15 minutes",
-      "First 30 minutes",
-      "First 45 minutes",
-     "First 60 minutes "
+      "Face",
+      "Pein",
+      "cheek",
+     "Eye hole"
     ]
   },
           {
     numb: 28,
-    question: "Which condition of the victim is referred as COMA stage? ",
+    question: "What is the name of the chisel shown in the figure?",
     immg:"img28",
-    answer: "Lie totally senseless and do not respond to calls",
+    answer: "Web chisel",
     options: [
-      "Unconscious but can respond to calls",
-      "Conscious but cannot respond to calls ",
-      "Breathing but cannot respond to calls",
-     "Lie totally senseless and do not respond to calls"
+      "Flat chisel",
+      "Web chisel",
+      "Cross cut chisel",
+     "Diamond point chisel"
     ]
   },
 
       {
     numb: 29,
-    question: "What is the cause for twisting defect in timber? ",
+    question: "What is the accuracy of Vernier bevel protractor",
     
-    answer: "Uneven shrinkage",
+    answer: "5min",
     options: [
-      "Defective Storage",
-      "Uneven shrinkage",
-      "Improper seasoning",
-     "Irregularity in growth of branches"
+      "1degree",
+      "5degree",
+      "5min",
+     "5sec"
     ]
   },
       {
     numb: 30,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    question: "What is the name of the file shown in the figure?",
     immg:"img30",
-    answer: "Diamond point chisel",
+    answer: "Rotary file",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "Rotary file",
+      "Tinkers file",
+      "Barrette file",
+     "Crossing file"
     ]
   },
      {
-    numb: 36,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
-    immg:"img36",
-    answer: "Diamond point chisel",
+    numb: 31,
+    question: "What is the advantage of waste disposal?",
+    //immg:"img36",
+    answer: "Ensures workshop is neat and tidy",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "Uses lot of energy and resources",
+      "Increases adverse impact on environment",
+      "Ensures workshop is neat and tidy",
+     "Reduces economic efficiency"
     ]
   },
      {
-    numb: 45,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
-    immg:"img45",
-    answer: "Diamond point chisel",
+    numb: 32,
+    question: "Which ensures personal safety?",
+    //immg:"img45",
+    answer: "Concentrating on your work",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "Keeping the machine clean",
+      "Concentrating on your work",
+      "Keeping the gang way and floor clean",
+     "Keeping the tools at their proper place"
     ]
   },
      {
-    numb: 46,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
-    immg:"img46",
-    answer: "Diamond point chisel",
+    numb: 33,
+    question: "How do you stop bleeding in an injured person?",
+    //immg:"img46",
+    answer: "Apply pressure over the wound",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "Tie bandage over the wound",
+      "Apply ointment over the wound",
+      "Apply tincutre over the wound",
+     "Apply pressure over the wound"
     ]
   },
      {
-    numb: 47,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
-    immg:"img47",
-    answer: "Diamond point chisel",
+    numb: 34,
+    question: "Which period is referred to as the golden hours for an injured person?",
+    answer: "First 30mins after incident",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "First 30mins after incident",
+      "First 30 mins",
+      "First 45mins of admission",
+     "First 60 mins after treatment"
     ]
   }
     ,
      {
-    numb: 48,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
-    immg:"img48",
-    answer: "Diamond point chisel",
+    numb: 35,
+    question: "Which material is used to make bench vice?",
+    
+    answer: "cast iron",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "Tool steel",
+      "high carbon steel",
+      "medium carbon steel",
+     "cast iron"
+    ]
+  },
+    {
+    numb: 36,
+    question: "What is the name of the part marked as x shown in the figure?",
+    immg:"img36",
+    answer: "Fulcrum",
+    options: [
+      "Leg",
+      "Peg",
+      "Washer",
+     "Fulcrum"
+    ]
+  },
+      {
+    numb: 37,
+    question: "Which caliper has one leg with an adjustable divider point and the other leg bent?",
+   // immg:"img36",
+    answer: "Jenni Caliper",
+    options: [
+      "Jenni Caliper",
+      "Inside caliper",
+      "Outside caliper",
+     "Spring joint caliper"
+    ]
+  },
+      {
+    numb: 38,
+    question: "Which is a soft skill?",
+   // immg:"img36",
+    answer: "Team work",
+    options: [
+      "copy writing",
+      "marketing",
+      "Team work",
+     "planning"
+    ]
+  },
+        {
+    numb: 39,
+    question: "What are the two classifications of system of units?",
+   // immg:"img36",
+    answer: "Fundamental and derived",
+    options: [
+      "British and Metric",
+      "Gravitational and non-gravitational",
+      "Fundamental and derived",
+     "Metric and International"
+    ]
+  },
+     {
+    numb: 40,
+    question: "What are the fundamental units?",
+   // immg:"img36",
+    answer: "Length, Mass, Time",
+    options: [
+      "Length, Mass, Volume",
+      "Length, Mass, Time",
+      "Length, Mass, Area",
+     "Length, Pressure, Volume"
+    ]
+  },
+      {
+    numb: 41,
+    question: "What denotes letter M in MKS system?",
+   // immg:"img36",
+    answer: "Meter",
+    options: [
+      "Mile",
+      "Meter",
+      "Millimeter",
+     "Micron"
+    ]
+  },
+     {
+    numb: 42,
+    question: "How many millimetres are ther in 1 inch?",
+   // immg:"img36",
+    answer: "25.4mm",
+    options: [
+      "2.54mm",
+      "25.4mm",
+      "24.5mm",
+     "2.45mm"
+    ]
+  },
+      {
+    numb: 43,
+    question: "What is the square root of 529?",
+   // immg:"img36",
+    answer: "23",
+    options: [
+      "13",
+      "23",
+      "33",
+     "43"
+    ]
+  },
+    {
+    numb: 44,
+    question: "Convert 0.456 decimal fraction into percentage?",
+   // immg:"img36",
+    answer: "45.6%",
+    options: [
+      "45.6%",
+      "4.56%",
+      "0.456%",
+     "0.0456%"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Convert 0.456 decimal fraction into percentage?",
+    immg:"img45",
+    answer: "water",
+    options: [
+      "water",
+      "concrete",
+      "asbestos",
+     "glass"
+    ]
+  },
+         {
+    numb: 46,
+    question: "Identify the conventional symbol of material?",
+    immg:"img46",
+    answer: "wood",
+    options: [
+      "lead",
+      "glass",
+      "wood",
+     "paper"
+    ]
+  },
+     {
+    numb: 47,
+    question: "Identify the name of instrument?",
+    immg:"img47",
+    answer: "protractor",
+    options: [
+      "set square",
+      "protractor",
+      "french curve",
+     "T square"
+    ]
+  },
+     {
+    numb: 48,
+    question: "Identify the name of set square?",
+    immg:"img48",
+    answer: "45o set square",
+    options: [
+      "15o set square",
+      "60o set square",
+      "30o set square",
+     "45o set square"
+    ]
+  },
+     {
+    numb: 49,
+    question: "Compass used to draw for....",
+    
+    answer: "circle",
+    options: [
+      "rectangle",
+      "square",
+      "circle",
+     "traingle"
+    ]
+  },
+      {
+    numb: 50,
+    question: "a=5, b=-2 then a+b=?",
+    
+    answer: "3",
+    options: [
+      "3",
+      "-3",
+      "2",
+     "7"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
