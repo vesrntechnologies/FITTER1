@@ -115,7 +115,16 @@ function showQuetions(index){
     x.setAttribute("alt", "The Pulpit Rock");
     //document.getElementById("Ques").appendChild(x);
     document.getElementById("Ques").appendChild(x);*/
-
+  if (questions[index].immg=="img4")
+        {
+            var x = document.createElement("IMG");
+    x.setAttribute("src", "https://vesrntechnologies.github.io//FITTER1//Images//4.png");
+    //x.setAttribute("width", "304");
+   // x.setAttribute("height", "228");
+    x.setAttribute("alt", "Image Can not Display");
+    //document.getElementById("Ques").appendChild(x);
+    document.getElementById("Ques").appendChild(x);
+        }
     if (questions[index].immg=="img6")
         {
             var x = document.createElement("IMG");
